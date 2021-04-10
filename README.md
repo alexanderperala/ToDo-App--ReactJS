@@ -1,4 +1,4 @@
-##### En "Todo"-applikation byggt med ReactJS.
+# En "Todo"-applikation byggt med ReactJS.
 
 # information om projektet: 
 En single-page webbapplikation där användare kan lägga till och ta bort "tasks/ToDo's".
