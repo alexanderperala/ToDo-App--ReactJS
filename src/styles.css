@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+}
+
+.header-title {
+  padding-top: 20px;
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+  font-size: 46px;
+}
+
+.app-container {
+  margin-top: 90px ;
+  box-shadow: 0px 0px 20px 0px rgb(0, 0, 0);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  border-radius: 15% 0 15% 0;
+  padding-bottom: 30px;
+  background-color: white;
+}
+
+.task-counter {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 80%;
+}
+
+
+
+body {
+  background: rgb(218, 86, 184);
+  background: linear-gradient(
+    90deg,
+    rgba(218, 86, 184, 1) 0%,
+    rgba(57, 207, 228, 1) 100%
+  );
+}

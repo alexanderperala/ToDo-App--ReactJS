@@ -1,0 +1,47 @@
+.form-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.form-container {
+  justify-content: center;
+  display: flex;
+}
+
+.form-wrapper button, input {
+  border-radius: 5px;
+  justify-content: center;
+  outline: none;
+}
+
+.form-wrapper input {
+  height: 35px;
+  border: solid 1.5px rgb(92, 91, 91);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  width: 350px;
+}
+
+.form-wrapper input::placeholder {
+  padding-left: 5px;
+  font-size: 16px;
+  font-style: italic;
+  color: rgba(141, 137, 137, 0.644);
+}
+
+.form-wrapper button {
+  font-size: 15px;
+  font-weight: 300;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgb(37, 160, 231);
+  border: none;
+  color: white;
+  margin-left: 5px;
+}
+
+.form-wrapper button:hover {
+  cursor: pointer;
+  background-color: rgb(20, 141, 211);
+}

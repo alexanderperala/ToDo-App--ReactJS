@@ -1,0 +1,10 @@
+.list-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 20px;
+  margin-top: 20px;
+  border: solid 2px rgb(196, 195, 195);
+  border-radius: 5px;
+  min-height: 300px;
+}
