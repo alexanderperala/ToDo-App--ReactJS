@@ -1,8 +1,8 @@
-# En "Todo"-applikation byggt med ReactJS.
+# En "Todo"-applikation byggt med ReactJS och react-hooks.
 
 ## Information om projektet: 
 En single-page webbapplikation där användare kan lägga till och ta bort "tasks/ToDo's".
-Appen kan lagra data med localStorage. Därav kan användare skriva in X antal "tasks/ToDo's". stänga ner sidan och när användaren sedan går in på sidan igen, ligger de tidigare inskrivna uppgifterna kvar.
+Appen kan lagra data med localStorage. Därav kan användare skriva in X antal "tasks/ToDo's", stänga ner sidan och när användaren sedan går in på sidan igen, ligger de tidigare inskrivna uppgifterna kvar.
 
 ## För att starta projektet
 
